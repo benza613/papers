@@ -1,11 +1,10 @@
-Summaries of white paper reviews on NLP, ML, AI, Deep Learning topics.
+Summaries of white papers & personal reviews on NLP, ML, AI, Deep Learning topics.
 
 
 # 2016
 
 - Tweet Sarcasm Detection using Deep Neural Networks [[Paper](https://www.aclweb.org/anthology/C16-1231.pdf)] [[Review](reviews/tweet-sarcasm-dnn.md)]
     - Meishan Zhang, Yue Zhang and Guohong Fu
-
 - Deep Reinforcement Learning for Dialogue Generation [[Paper](https://arxiv.org/abs/1606.01541)] [[Review](reviews/deep-rl-diag-gen.md)]
     - Jiwei Li, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, Dan Jurafsky, ArXiv, 2016
 
