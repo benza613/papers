@@ -1,4 +1,9 @@
-Summaries of white papers & personal reviews on NLP, ML, AI, Deep Learning topics.
+Summaries of white papers & personal reviews on NLP, ML, AI, Deep Learning topics from both my classes & personal research.
+
+# 2018
+- Language Models are Unsupervised Multitask Learners. [[Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)] [[Review](reviews/lang-models-unsupervised-learners.md)]
+    - Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever
+
 
 
 # 2016
