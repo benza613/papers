@@ -1,7 +1,11 @@
 Summaries of white papers & personal reviews on NLP, ML, AI, Deep Learning topics from both my classes & personal research.
 
+# 2019
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. [[Paper](https://arxiv.org/pdf/1810.04805.pdf)] [[Review](reviews/bert.md)]
+    - Devlin Jacob, Ming-Wei Chang, Kenton Lee and Kristina Toutanova
+
 # 2018
-- Language Models are Unsupervised Multitask Learners. [[Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)] [[Review](reviews/lang-models-unsupervised-learners.md)]
+- Language Models are Unsupervised Multitask Learners. [[Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)] [[Review](reviews/lang-models-unsupervised-task-learners.md)]
     - Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever
 
 
